@@ -18,7 +18,7 @@ const readline = require('readline');
 
 // Using premium QuickNode endpoint for better rate limits
 const RPC_ENDPOINTS = [
-  'https://magical-boldest-patina.solana-mainnet.quiknode.pro/a94255dcbb27e52b1d4cca35d10e899b82b6bdba/'
+  'YOU ENDPOINT HERE'
 ];
 
 let currentEndpointIndex = 0;
