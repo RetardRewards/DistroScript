@@ -4,7 +4,7 @@ A versatile tool to check top holders of PumpFun tokens on the Solana blockchain
 
 ## Features
 
-- **Token Holder Analysis**: Find the top 10 holders of any token on Solana
+- **Token Holder Analysis**: Find the top holders of any token on Solana
 - **Token Distribution**: Automatically distribute 90% of your token balance to the top holders
 - **Interactive Menu**: Easy-to-use command-line interface
 - **Secure**: Your private key never leaves your computer
